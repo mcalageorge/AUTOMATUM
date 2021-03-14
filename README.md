@@ -9,9 +9,12 @@ Spaceship game with top down elements made in Unity
 
 - Multiple waves of enemies
 
+[Gameplay]
+![Gameplay](game.gif)
+
 [Tutorial Area]
-![Tutorial Area](1.png)
+![Tutorial Area](Pictures/1.png)
 [First chamber ambush]
-![First chamber ambush](2.png)
+![First chamber ambush](Pictures/2.png)
 [Final Boss Area]
-![Final Boss Area](3.png)
+![Final Boss Area](Pictures/3.png)
