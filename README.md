@@ -1,6 +1,8 @@
 # AUTOMATUM
 Spaceship game with top down elements made in Unity
 
+- Created with C# using the Unity Engine 
+
 - Fly a cool spaceship 
 
 - Take down anyone that stands in your way
